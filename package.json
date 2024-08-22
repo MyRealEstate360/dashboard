@@ -19,7 +19,7 @@
     "@emotion/cache": "11.11.0",
     "@emotion/react": "11.11.4",
     "@emotion/server": "11.11.0",
-    "@emotion/styled": "11.11.0",
+    "@emotion/styled": "11.13.0",
     "@fontsource/inter": "5.0.17",
     "@fontsource/plus-jakarta-sans": "5.0.19",
     "@fontsource/roboto-mono": "5.0.17",
