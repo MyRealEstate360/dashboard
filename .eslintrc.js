@@ -11,6 +11,16 @@ module.exports = {
     require.resolve('@vercel/style-guide/eslint/react'),
     require.resolve('@vercel/style-guide/eslint/next'),
   ],
+  rules: {} //No Rules
+  /*
+  root: true,
+  extends: [
+    require.resolve('@vercel/style-guide/eslint/node'),
+    require.resolve('@vercel/style-guide/eslint/typescript'),
+    require.resolve('@vercel/style-guide/eslint/browser'),
+    require.resolve('@vercel/style-guide/eslint/react'),
+    require.resolve('@vercel/style-guide/eslint/next'),
+  ],
   parserOptions: {
     project,
   },
@@ -21,6 +31,7 @@ module.exports = {
       },
     },
   },
+
   rules: {
     '@typescript-eslint/no-unused-vars': [
       'error',
@@ -56,6 +67,7 @@ module.exports = {
       },
     ],
 
+
     // Deactivated
     '@typescript-eslint/dot-notation': 'off', // paths are used with a dot notation
     '@typescript-eslint/no-misused-promises': 'off', // onClick with async fails
@@ -72,5 +84,5 @@ module.exports = {
     'react/prop-types': 'off', // TypeScript is used for type checking
 
     '@next/next/no-img-element': 'off', // Temporary disabled
-  },
+  },*/
 };
