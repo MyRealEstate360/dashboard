@@ -21,7 +21,7 @@
     "@emotion/server": "11.11.0",
     "@emotion/styled": "11.11.0",
     "@fontsource/inter": "5.0.17",
-    "@fontsource/plus-jakarta-sans": "5.0.19",
+    "@fontsource/plus-jakarta-sans": "5.0.21",
     "@fontsource/roboto-mono": "5.0.17",
     "@hookform/resolvers": "3.3.4",
     "@mui/lab": "5.0.0-alpha.167",
